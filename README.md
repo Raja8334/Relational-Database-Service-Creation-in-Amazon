@@ -1,7 +1,7 @@
 # RELATIONAL DATABASE SERVICE CREATION IN AMAZON
 
-### REG NO:21222211007
-### NAME: DEVADARSHAN A S
+### REG NO:212222100041
+### NAME: Raja R
 
 ## AIM
   To Relational Database Service Creation in Amazon.
